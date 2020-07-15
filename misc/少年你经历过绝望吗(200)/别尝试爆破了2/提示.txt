@@ -1,0 +1,2 @@
+flag分三段隐写，分别在1.mp3、2.wav、last.wav上
+三段组合顺序为1.mp3+2.wav+last.wav

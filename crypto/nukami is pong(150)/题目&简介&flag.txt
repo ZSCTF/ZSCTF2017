@@ -1,0 +1,7 @@
+题目：nukami is pong
+
+简介：是个友善的friends
+	  121.42.193.29
+	  
+	  
+flag:flag{_ecb_is_bad_}

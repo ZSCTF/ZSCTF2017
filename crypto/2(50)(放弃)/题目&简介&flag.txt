@@ -1,0 +1,8 @@
+题目：开心
+
+简介：我说你开心啥呢
+	  flag格式：zsctf{}
+
+分数：50
+
+flag:zsctf{ENSN}

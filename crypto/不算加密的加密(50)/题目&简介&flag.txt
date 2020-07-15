@@ -1,0 +1,20 @@
+题目：初等加密
+
+简介：加油努力
+
+分数：50
+
+flag:zsctf{88e79_1qw545}
+
+
+
+
+char string1[]="我忘了"; //we1comezsctf
+char key[]="要不？去找找?";//EASY_CRACKME
+char flag[]="我也忘了"; //88e79_1qw545
+
+
+
+
+
+

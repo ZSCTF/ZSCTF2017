@@ -1,0 +1,8 @@
+题目：something  exciting
+
+简介：I want to play a game with you 
+	  flag格式：zsctf{}
+
+分数：100
+
+flag：zsctf{592100300003590702840263951080726090936401208071380460308945027759600014620810539}

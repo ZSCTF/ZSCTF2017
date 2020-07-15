@@ -1,0 +1,8 @@
+题目：exam
+
+简介:118.89.138.44:10005
+	 tip:flag在flag.txt文件里
+     by 海蓝
+	 
+	 
+flag:ZSCTF{0u7_0f_m3m_ki113d_nyaa~_VI4_5kywind}

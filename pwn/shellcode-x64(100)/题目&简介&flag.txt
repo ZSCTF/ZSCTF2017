@@ -1,0 +1,6 @@
+题目：other-shellcode-x64
+
+简介:nc 118.89.138.44 30013
+     flag路径: /home/zsctf
+	
+flag：zsctf{nOt_sh5llc0de}

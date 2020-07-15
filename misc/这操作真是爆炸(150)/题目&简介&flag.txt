@@ -1,0 +1,10 @@
+题目：这操作真是爆炸
+
+简介：化简指令
+	  flag格式:zsctf{}
+	  
+	  
+分数：150
+
+
+flag:zsctf{pop eax}

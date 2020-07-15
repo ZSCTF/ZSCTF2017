@@ -1,0 +1,6 @@
+题目：have a try
+
+简介：撞撞撞，碰碰碰
+	  flag格式：zsctf{}
+
+flag:zsctf{_you___are____the__best_}

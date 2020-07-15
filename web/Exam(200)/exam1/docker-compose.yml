@@ -1,0 +1,25 @@
+web-exam:
+        image: nginx:1.13
+        ports:
+                - "10005:80"
+        volumes: 
+                - ./nginx/www:/usr/share/nginx/html:ro
+                - ./nginx/conf:/etc/nginx/conf.d:ro
+        links:
+                - php
+php:
+        build: ./php
+        volumes:
+                - ./nginx/www:/usr/share/nginx/html:ro
+        links:
+                - db
+        mem_limit: 10485760
+        mem_swappiness: 0
+
+db:
+        build: ./mysql
+        environment:
+                - MYSQL_ROOT_PASSWORD=nothing
+                - MYSQL_USER=web
+                - MYSQL_PASSWORD=catchtheweb
+                - MYSQL_DATABASE=web

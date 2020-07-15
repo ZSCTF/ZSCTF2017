@@ -1,0 +1,5 @@
+web-login1:
+        build: .
+        ports:
+                - "10006:80"
+        restart: always

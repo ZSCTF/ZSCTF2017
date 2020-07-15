@@ -1,0 +1,12 @@
+题目：大佬的日常
+
+简介：一天，海(nv)蓝(zhuang)大佬醒来，发现枕头边多了张纸条，打开一看，口算了一下，就扔进了垃圾桶，纸条的内容
+	  是：
+										MD64：ZmFlMGIyN2M0NTFjNzI4ODY3YTU2N2U4YzFiYjRlNTM=
+										
+	  大佬们这张纸条写的究竟是什么内容。
+	  flag格式：zsctf{}
+	  
+分数：100
+
+flag:zsctf{666}

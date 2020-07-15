@@ -1,0 +1,6 @@
+题目：shellcode
+
+简介:nc 118.89.138.44 30014
+     flag路径:/home/zsctf
+	 
+flag:zsctf{yeyeye~mUst_she11c0de}

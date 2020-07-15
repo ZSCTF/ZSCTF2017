@@ -1,0 +1,8 @@
+题目：go
+
+简介：听说赢了就有flag
+
+分数：50
+
+
+flag：zsctf{a6u3_sp34_pqzm_ue85}

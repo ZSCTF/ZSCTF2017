@@ -1,0 +1,8 @@
+题目：I wanna be a dalao
+
+简介：↑ ↑ ↓ ↓ ← →  BA BA
+	  flag格式:flag{}
+
+分数：100
+
+flag:flag{6E23F259D98DF153}

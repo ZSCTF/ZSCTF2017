@@ -1,0 +1,8 @@
+题目：easy_crack
+
+简介：逆向签到题
+
+分数：100
+
+
+flag:zsctf{zzzzz_sssss_ccccc}

@@ -1,0 +1,5 @@
+题目：A game
+
+简介：真的是游戏，骗你是小狗，通关有flag
+
+flag:zsctf{T9is_tOpic_1s_v5ry_int7resting_b6t_others_are_n0t}

@@ -1,0 +1,5 @@
+ÌâÄ¿£ºW|X-x64
+
+¼ò½é£ºnc 118.89.138.44 30010
+
+flag:zsctf{W|X_but_not_hard}

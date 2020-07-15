@@ -1,0 +1,5 @@
+题目：printf
+
+简介:nc 118.89.138.44 30006
+
+flag:zsctf{printf_printf_is_printf}
